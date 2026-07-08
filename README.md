@@ -66,13 +66,6 @@ Currently open to software engineering, frontend, and technical roles.
 | Familiar with | Docker, Emacs |
 | Currently learning | Kubernetes |
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=issamohamed&show_icons=true&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issamohamed&layout=compact&hide_border=true">
-</p>
-
 ---
 
 <p align="center">
