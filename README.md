@@ -47,7 +47,7 @@ Currently open to software engineering, frontend, and technical roles.
 
 ### What I'm Building
 
-**Repo City** — A spatial code-comprehension tool that maps repository structure and complexity into navigable 3D cityscapes, turning abstract dependency graphs into an intuitive visual language; deployed on Cloudflare Pages.
+**Repo City** — A spatial code-comprehension tool that maps repository structure and complexity into navigable 3D cityscapes, turning abstract codebases into an intuitive visual language; deployed on Cloudflare Pages.
 
 **Hire Purpose** — An agentic job-intelligence platform that matchmakes roles to the user. Built on Cloudflare Workers in TypeScript, integrating Greenhouse, Lever, and Ashby APIs with Groq's Llama 3.3 for scoring, a head-to-head compare dashboard, and email digests.
 
