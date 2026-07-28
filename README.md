@@ -53,7 +53,7 @@ Currently open to software engineering, frontend, and technical roles.
 
 **Hire Purpose** — An agentic job-intelligence platform that matchmakes roles to the user. Built on Cloudflare Workers in TypeScript, integrating Greenhouse, Lever, and Ashby APIs with Groq's Llama 3.3 for scoring, a head-to-head compare dashboard, and email digests.
 
-**Foot Notes** — An editorial soccer analytics site for Europe's Big Five leagues, pairing a Python data pipeline with a React and D3 frontend. Every club is plotted on its underlying attack and defence numbers; drill into any club for a best-XI tactics board, per-player output-versus-expected charts, and rolling season form, all wrapped in a glassmorphic editorial design.
+**Footy Notes** — An editorial soccer analytics site for Europe's Big Five leagues, pairing a Python data pipeline with a React and D3 frontend. Every club is plotted on its underlying attack and defence numbers; drill into any club for a best-XI tactics board, per-player output-versus-expected charts, and rolling season form, all wrapped in a glassmorphic editorial design.
 
 ### Technical Skills
 
