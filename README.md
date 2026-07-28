@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white">
@@ -51,7 +53,7 @@ Currently open to software engineering, frontend, and technical roles.
 
 **Hire Purpose** — An agentic job-intelligence platform that matchmakes roles to the user. Built on Cloudflare Workers in TypeScript, integrating Greenhouse, Lever, and Ashby APIs with Groq's Llama 3.3 for scoring, a head-to-head compare dashboard, and email digests.
 
-**Natural Taste** — A music app that responds to the world around you; a weather-responsive experience built with React, Node.js, and PostgreSQL.
+**Foot Notes** — An editorial soccer analytics site for Europe's Big Five leagues, pairing a Python data pipeline with a React and D3 frontend. Every club is plotted on its underlying attack and defence numbers; drill into any club for a best-XI tactics board, per-player output-versus-expected charts, and rolling season form, all wrapped in a glassmorphic editorial design.
 
 ### Technical Skills
 
