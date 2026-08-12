@@ -1,5 +1,3 @@
-<img width="1190" height="905" alt="Screenshot 2026-08-12 at 2 15 44 PM" src="https://github.com/user-attachments/assets/7cc5775e-bd10-4781-bd17-9d6ada6c4dbb" />
-<img width="1190" height="905" alt="Screenshot 2026-08-12 at 2 15 44 PM" src="https://github.com/user-attachments/assets/7baa21d2-bfa0-4fd8-8d49-702d28c7acaf" />
 <h1 align="center">Issa Mohamed</h1>
 
 <p align="center">
@@ -52,7 +50,6 @@ Currently open to software engineering, frontend, and technical roles.
 ### What I'm Building
 
 **Folk & Found** — An interactive 3D globe that maps the myths and folklore of the entire world. It's a shader-lit Earth where 294 regions glow by the depth of their legends and shift across four historical eras, from the Greek Gorgons to West Virginia's Mothman. Click anywhere for an era-aware retelling generated live and grounded on curated fact, search by meaning rather than spelling, test yourself in a built-in folklore guessing game, and hear each region come alive through procedural ambient music synthesized in the browser from its geography and the density of its myth.
-<img width="1190" height="905" alt="Screenshot 2026-08-12 at 2 15 44 PM" src="https://github.com/user-attachments/assets/183f4950-2121-44a7-a1a2-daa7bd277775" />
 
 **Hire Purpose** — An agentic job-intelligence platform that matchmakes roles to the user. Built on Cloudflare Workers in TypeScript, integrating Greenhouse, Lever, and Ashby APIs with Groq's Llama 3.3 for scoring, a head-to-head compare dashboard, and email digests.
 
