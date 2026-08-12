@@ -50,6 +50,7 @@ Currently open to software engineering, frontend, and technical roles.
 ### What I'm Building
 
 **Folk & Found** — An interactive 3D globe that maps the myths and folklore of the entire world. It's a shader-lit Earth where 294 regions glow by the depth of their legends and shift across four historical eras, from the Greek Gorgons to West Virginia's Mothman. Click anywhere for an era-aware retelling generated live and grounded on curated fact, search by meaning rather than spelling, test yourself in a built-in folklore guessing game, and hear each region come alive through procedural ambient music synthesized in the browser from its geography and the density of its myth.
+<img width="1190" height="905" alt="Screenshot 2026-08-12 at 2 15 44 PM" src="https://github.com/user-attachments/assets/05bbed9e-e3b4-40a9-bc4c-77ef72ce6072" />
 
 **Hire Purpose** — An agentic job-intelligence platform that matchmakes roles to the user. Built on Cloudflare Workers in TypeScript, integrating Greenhouse, Lever, and Ashby APIs with Groq's Llama 3.3 for scoring, a head-to-head compare dashboard, and email digests.
 
