@@ -53,6 +53,7 @@ Currently open to software engineering, frontend, and technical roles.
 <img width="1190" height="905" alt="Screenshot 2026-08-12 at 2 15 44 PM" src="https://github.com/user-attachments/assets/05bbed9e-e3b4-40a9-bc4c-77ef72ce6072" />
 
 **Hire Purpose** — An agentic job-intelligence platform that matchmakes roles to the user. Built on Cloudflare Workers in TypeScript, integrating Greenhouse, Lever, and Ashby APIs with Groq's Llama 3.3 for scoring, a head-to-head compare dashboard, and email digests.
+<img width="2506" height="1448" alt="image" src="https://github.com/user-attachments/assets/9553daad-068a-4275-900f-21b42addb37b" />
 
 ### Technical Skills
 
