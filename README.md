@@ -49,11 +49,10 @@ Currently open to software engineering, frontend, and technical roles.
 
 ### What I'm Building
 
+**Folk & Found** — An interactive 3D globe that maps the myths and folklore of the entire world. It's a shader-lit Earth where 294 regions glow by the depth of their legends and shift across four historical eras, from the Greek Gorgons to West Virginia's Mothman. Click anywhere for an original, era-aware retelling generated live and grounded on curated fact, search by meaning rather than spelling, test yourself in a built-in folklore guessing game, and hear each region come alive through procedural ambient music synthesized in the browser from its geography and the density of its myth.
 **Repo City** — A spatial code-comprehension tool that maps repository structure and complexity into navigable 3D cityscapes, turning abstract codebases into an intuitive visual language; deployed on Cloudflare Pages.
 
 **Hire Purpose** — An agentic job-intelligence platform that matchmakes roles to the user. Built on Cloudflare Workers in TypeScript, integrating Greenhouse, Lever, and Ashby APIs with Groq's Llama 3.3 for scoring, a head-to-head compare dashboard, and email digests.
-
-**Footy Notes** — An editorial soccer analytics site for Europe's Big Five leagues, pairing a Python data pipeline with a React and D3 frontend. Every club is plotted on its underlying attack and defence numbers; drill into any club for a best-XI tactics board, per-player output-versus-expected charts, and rolling season form, all wrapped in a glassmorphic editorial design.
 
 ### Technical Skills
 
